@@ -1,7 +1,5 @@
 # Recommender-system-Using-Collaborative-Filtering
 
-# Recommender system Using Collaborative Filtering
-
 ## COMP9417 Project 2019T2
 
 Yuhan He (z5224997), Yuliang Wang (z5191313), Zihao Xu (z5184152)
