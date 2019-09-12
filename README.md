@@ -1,9 +1,5 @@
 # Recommender-system-Using-Collaborative-Filtering
 
-## COMP9417 Project 2019T2
-
-Yuhan He (z5224997), Yuliang Wang (z5191313), Zihao Xu (z5184152)
-
 ## Project Files
 
 This project includes four jupter notebook files and one report:
